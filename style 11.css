@@ -1,0 +1,41 @@
+body {
+    background-color: #F5F5F5;
+    margin: 200px
+}
+
+
+section {
+    width: 448px;
+    height: 562px;
+    left: 496px;
+    top: 245px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.paragraph-1 {
+    width: 317px;
+    height: 168px;
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+p {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.button-1 {
+    width: 331px;
+    height: 69px;
+    font-size: px;
+    background-color: black;
+    border-radius: 100px;
+}
+
+.button-2 {
+    width: 331px;
+    height: 69px;
+    font-size: px;
+    background-color: white;
+    border-radius: 100px;
+}
